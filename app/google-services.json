@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22709635827",
+    "project_id": "fir-app-hospital",
+    "storage_bucket": "fir-app-hospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22709635827:android:45c7765e24be63f44d8586",
+        "android_client_info": {
+          "package_name": "com.example.demo_app_hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22709635827-m50iplrq8fueuv9kh16f2933jids5rqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKX7UgoxM6FNKwFjLbjG0QE4oMfgKeRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22709635827-m50iplrq8fueuv9kh16f2933jids5rqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

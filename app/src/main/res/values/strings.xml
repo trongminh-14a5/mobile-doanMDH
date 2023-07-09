@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DEMO_APP_HOSPITAL</string>
+    <string name="login">Đăng nhập tài khoản bệnh viện</string>
+    <string name="email">email\n</string>
+    <string name="password">password\n</string>
+    <string name="button">Dang nhap</string>
+    <string name="Click_to_login">Bạn chưa có tài khoản ?</string>
+    <string name="register">Dang ki</string>
+    <string name="regiister">Dang ki</string>
+</resources>
